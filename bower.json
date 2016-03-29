@@ -1,11 +1,11 @@
 {
-  "name": "base",
-  "version": "2.8.3",
-  "homepage": "http://matthewhartman.github.io/base/",
+  "name": "second-base",
+  "version": "1.0.0",
+  "homepage": "",
   "authors": [
-    "Matthew Hartman <matthewhartman@gmail.com>"
+    "Kristan Smith <getkristan@gmail.com>"
   ],
-  "description": "A Rock Solid, Responsive HTML/CSS Framework built to work on all devices big and small.",
+  "description": "A customized site starter framework built on BASE.",
   "keywords": [
     "css",
     "less",
